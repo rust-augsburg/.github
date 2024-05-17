@@ -8,5 +8,6 @@ Together, we'll dive into the latest Rust updates, exchange knowledge, and work 
 
 Don't miss out on this incredible opportunity to connect with fellow Rust fans and take your skills to the next level. Let's Rust and roll!
 
-Find us at Matrix: #rust-augsburg:matrix.org
+Find us at Matrix: **#rust-augsburg:matrix.org**
+
 Visit out meetup: https://www.meetup.com/rust-meetup-augsburg/
