@@ -2,7 +2,7 @@
 
 Attention all Rust enthusiasts!
 
-Our next Rust Meetup is on **Thursday, 30th of January 2015** at the Public library/Stadtbücherei Augsburg, Ernst-Reuter-Platz 1, Augsburg.
+Our next Rust Meetup is on **Thursday, 30th of January 2025 17:00-19:00** at the Public library/Stadtbücherei Augsburg, Ernst-Reuter-Platz 1, Augsburg.
 
 You are cordially invited to join our Rust group, where we explore the ins and outs of this amazing programming language. Whether you're a seasoned Rustacean or a curious beginner, we welcome you to be part of our community of like-minded individuals who share a passion for Rust.
 
